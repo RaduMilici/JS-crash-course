@@ -11,7 +11,6 @@
 
 <div class="section-container">
   <h2 class="section-title" align="center">Why learn JavaScript?</h2>
-  <img src="img/why.png" width="100" height="100"/>
 </div>
 
 * You can build lots of things with it!
