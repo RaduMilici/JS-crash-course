@@ -1,3 +1,29 @@
+<style>
+  html body {
+    background-color:rgb(40,44,52);
+    color: white;
+    font-size: 30px;
+  }
+  .section-title {
+    font-size: 40px;
+    color: rgb(103, 218, 249);
+  }
+  .section-container {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  .error-text {
+    color: red;
+  }
+  .tip {
+    color: green;
+  }
+  .markdown-preview {
+    padding: 100px !important;
+  }
+</style>
+
 <div class="section-container">
   <img src="img/javascript-illustration.png"/>
 </div>
